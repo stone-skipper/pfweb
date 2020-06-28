@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pfweb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pfweb/static/js/main.cf300f05.chunk.js",
+    "main.js.map": "/pfweb/static/js/main.cf300f05.chunk.js.map",
+    "runtime-main.js": "/pfweb/static/js/runtime-main.5064bdd9.js",
+    "runtime-main.js.map": "/pfweb/static/js/runtime-main.5064bdd9.js.map",
+    "static/js/2.838766c5.chunk.js": "/pfweb/static/js/2.838766c5.chunk.js",
+    "static/js/2.838766c5.chunk.js.map": "/pfweb/static/js/2.838766c5.chunk.js.map",
+    "index.html": "/pfweb/index.html",
+    "precache-manifest.e6bb953e00c901b1b88fec880d895e84.js": "/pfweb/precache-manifest.e6bb953e00c901b1b88fec880d895e84.js",
+    "service-worker.js": "/pfweb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pfweb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.838766c5.chunk.js.LICENSE.txt": "/pfweb/static/js/2.838766c5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pfweb/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5064bdd9.js",
+    "static/js/2.838766c5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cf300f05.chunk.js"
+  ]
+}
